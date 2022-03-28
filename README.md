@@ -2,7 +2,7 @@
 
 ## For the function of this password-generator-application.
 
-The user will have the choice with the quantity of characters within their password, to aid the user with the creation of their password they will be prompted to choose characters from four-separate-hyroglyphic-options such as:
+The user will have the choice with the quantity of characters within their password, to aid the user with the creation of their password they will be prompted to choose characters from four-separate-heiroglyphic-options such as:
 * Capital-case
 * Small-case
 * Numbers
