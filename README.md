@@ -14,5 +14,11 @@ The user will have the choice with the quantity of characters within their passw
 
 
 ### For the URL-links.
-* https://andres-abreu.github.io/PASSWORD-GENERATOR/
-* https://github.com/andres-abreu/PASSWORD-GENERATOR
+* https://andres-abreu.github.io/password-generator/
+* https://github.com/andres-abreu/password-generator
+
+<div id="badges">
+  <br/>
+  <br/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{username}1212%2Fhit-counter" alt="GH-count"/>
+  </div>
